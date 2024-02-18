@@ -2,21 +2,21 @@
 ----------------------------------------------
        To create & activate virtual env
 ----------------------------------------------
-run in terminal
+Run in terminal
 python -m venv myvenv
 
 To activate virtual env
-run in terminal
+Run in terminal
 myvenv/Scripts/activate
 
 -----------------------------------------------
        To create & install requirements.txt
 -----------------------------------------------
-install in venv
+Install in venv
 pip install pipreqsnb
 
-run in venv 
+Run in venv 
 pipreqsnb --force .\CompareSourcefiles.ipynb
 
-to install requirements on new machine
+To install requirements on new machine
 pip install -r requirements.txt
