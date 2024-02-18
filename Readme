@@ -9,9 +9,9 @@ To activate virtual env
 run in terminal
 myvenv/Scripts/activate
 
------------------------------------------
-       To create requirements.txt
------------------------------------------
+-----------------------------------------------
+       To create & install requirements.txt
+-----------------------------------------------
 install in venv
 pip install pipreqsnb
 
